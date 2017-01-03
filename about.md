@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+Hi! I am Mandy and I study Computer Science at the University of Toronto.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+I focused on mathematics and statistics in the first two years of my undergrad. Then I found my passion in artificial intelligence, including machine learning, computer vision, natural language processing in the recent two years. Besides math, computer science and statistics, I also took many microeconomics courses. The ideas of economics are incredibly useful while making decisions in real life.
+[See my CV here](http://individual.utoronto.ca/mandyxu/Mengdi_Xu_CV.pdf)
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+I love travelling and making great friends. Below is one of the most recent photo of myself, and it also encapsulates my new hobby that I recently developed.
 
+<!--
 ## Education
 
 * ABC degree from XYZ University.
@@ -25,30 +27,30 @@ Founder, ABC Organisation
 * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
+* **Skill 4** - `Skill` / `Skill` / `Skill`
 * **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
+* **Skill 6** - `Skill` / `Skill`
+
+
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
-   
+* [**This is my first achievement**](#)
+
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**This is my second achievement**](#)
 
     Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my third achievement**](#) 
+* [**This is my third achievement**](#)
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+ -->
 
 ## Contact me
 
