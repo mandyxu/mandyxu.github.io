@@ -4,21 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania)
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
 One of the greatest thing I enjoyed the most about computer science is the opportunity to work with great people to accomplish a great deal of fun projects. Here I have listed some of the projects / researches I have done using artificial intelligence techniques.
 
-## Autonomous Driving
 ### [Autonomous Driving](https://github.com/mandyxu/csc420/tree/master/project_autonomous_driving)
 -----
 
@@ -26,18 +13,20 @@ One of the greatest thing I enjoyed the most about computer science is the oppor
  -->
 In this project, the goal is to implement algorithms to detect road, cars, cyclists, and pedestrians using stereo images along with computer vision and machine learning techniques, so that we can recognize and send out warnings of nearby objects to the "driver" of our car. The report and the resulting video can be found here.
 
+***
 
-## Toronto Datathon
+### Toronto Datathon
 -----
 
 Our tasks in this competition is to analyze and predict the flow of population in Shanghai & San Francisco, using Markov Chains and Gaussian Process on the location data of mobile users, within 5 hours.
 
+***
 
 ## Pedestrian Detection in Videos
 -----
 Researched on pedestrian detection in videos.
 
-
+***
 
 ## "Wo+" Big Data Competition
 -----
@@ -55,8 +44,8 @@ We used K-means clustering to classify the population based on their consuming p
 
 The final solution for this part won "The Best Business Model" award.
 
-
+***
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[md.xu@mail.utoronto.ca](mailto:md.xu@mail.utoronto.ca) or [hsumengdi@gmail.com](mailto:hsumengdi@gmail.com)
