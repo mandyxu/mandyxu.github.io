@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! I am Mandy and I study Computer Science at the University of Toronto.
 
-I focused on mathematics and statistics in the first two years of my undergrad. Then I found my passion in artificial intelligence, including machine learning, computer vision, natural language processing in the recent two years. Besides math, computer science and statistics, I also took many microeconomics courses. The ideas of economics are incredibly useful while making decisions in real life.
+I focused on mathematics and statistics in the first two years of my undergrad. Later, I found my passion in artificial intelligence, including machine learning, computer vision, natural language processing in the recent two years. Besides math, computer science and statistics, I also took some microeconomics courses. The ideas of economics are incredibly useful while making decisions in real life.
 [See my CV here](http://individual.utoronto.ca/mandyxu/Mengdi_Xu_CV.pdf)
 
 I love travelling and making great friends. Below is one of the most recent photo of myself, and it also encapsulates my new hobby that I recently developed.
