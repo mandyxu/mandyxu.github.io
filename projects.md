@@ -7,7 +7,7 @@ permalink: /projects/
 One of the greatest thing I enjoyed the most about computer science is the opportunity to work with great people to accomplish a great deal of fun projects. Here I have listed some of the projects / researches I have done using artificial intelligence techniques.
 
 ### [Autonomous Driving](https://github.com/mandyxu/csc420/tree/master/project_autonomous_driving)
------
+
 
 <!-- According to Association for Safe International Road Travel, there are nearly 1.3 million people who die in road crashes each year, on average 3,287 per day, with an additional 20 to 50 million injured or disabled. Compared to human drivers, self-driving cars do not blink, do not get tired or sleepy, and do not text while driving; therefore, it easy to see machines being better drivers. As a result, it is not surprising that a lot of effort is devoted to improve the safety of autonomous vehicles by both academics and industry.
  -->
@@ -16,20 +16,17 @@ In this project, the goal is to implement algorithms to detect road, cars, cycli
 ***
 
 ### Toronto Datathon
------
 
 Our tasks in this competition is to analyze and predict the flow of population in Shanghai & San Francisco, using Markov Chains and Gaussian Process on the location data of mobile users, within 5 hours.
 
 ***
 
 ## Pedestrian Detection in Videos
------
 Researched on pedestrian detection in videos.
 
 ***
 
 ## "Wo+" Big Data Competition
------
 This competition consists of two separate parts. We won the 6th place based on the combined evaluation of both parts among 768 participating teams.
 
 Part I: Mobile User Behavior Prediction
